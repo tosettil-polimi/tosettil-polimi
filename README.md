@@ -86,8 +86,8 @@ I don’t star much. The ones that stay are there because they change how I work
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=tosettil-polimi&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=0a0a0a&bg_color=ffffff" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosettil-polimi&layout=compact&hide_border=true&title_color=2563eb&text_color=0a0a0a&bg_color=ffffff" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=tosettil-polimi&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=0a0a0a&bg_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tosettil-polimi&layout=compact&hide_border=true&title_color=2563eb&text_color=0a0a0a&bg_color=ffffff" alt="Top languages" />
 
 <br />
 
