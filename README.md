@@ -31,10 +31,9 @@ I build systems that stay up, stitch tools that would otherwise stay islands, an
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](#)
 [![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#)
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,vue,python,php,laravel,docker,kubernetes,mongodb,redis,postgres,aws,githubactions,solidity" alt="Tools I reach for" />
 
 </div>
 
