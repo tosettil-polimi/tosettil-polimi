@@ -85,11 +85,6 @@ I don’t star much. The ones that stay are there because they change how I work
 
 <br />
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=tosettil-polimi&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=0a0a0a&bg_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tosettil-polimi&layout=compact&hide_border=true&title_color=2563eb&text_color=0a0a0a&bg_color=ffffff" alt="Top languages" />
-
-<br />
-
 [![Polimi](https://img.shields.io/badge/Politecnico_di_Milano-Software_Engineering-2563EB?style=for-the-badge)](https://www.polimi.it/)
 [![IT](https://img.shields.io/badge/Italian-Native-009246?style=for-the-badge)](#)
 [![EN](https://img.shields.io/badge/English-Fluent-C8102E?style=for-the-badge)](#)
